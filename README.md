@@ -1,5 +1,5 @@
 ## Layer 1 y Layer 2
-1. [General Info](#general-info)
+1. [que es una layer 1](#que es una layer 1)
 2. [Technologies](#technologies)
 3. [Installation](#installation)
 4. [Collaboration](#collaboration)
