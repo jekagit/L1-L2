@@ -1,6 +1,6 @@
 ## Layer 1 y Layer 2
-1. [que es una layer 1](#que es una layer 1)
-2. [que es una layer 2](#que es una layer 2)
+1. [Que es una layer 1](#Que es una layer 1)
+2. [Que es una layer 2](#Que es una layer 2)
 3. [Installation](#installation)
 4. [Collaboration](#collaboration)
 5. [FAQs](#faqs)
